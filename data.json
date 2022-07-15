@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Post one",
+        "body": "Django is a python web framework"
+    },
+
+    {
+        "title": "Post two",
+        "body": "Flutter can be use to build cross platform mobile apps"
+    },
+
+    {
+        "title": "Post three",
+        "body": "Solidity is very good for writing smart contracts"
+    }
+]
